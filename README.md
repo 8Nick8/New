@@ -1,4 +1,3 @@
-# New
 <html>
     <title>Школа боевых искусств</title>
     <header style="background-color:black">
